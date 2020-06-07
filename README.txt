@@ -19,6 +19,6 @@ board or possibly integrating other devices.
 
 To start the first design will be a simple board that only balances a 8s battery.
 
-
+Insperation: https://hackaday.io/project/25512/gallery#fe78dd71158ba1ad740f9a22e1541915
 
 Christian - 5/2020
